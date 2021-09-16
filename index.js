@@ -8,5 +8,5 @@ module.exports = {
 /*
 release tries:
 #fix: a fix # => this should release v1.0.1 
-* feat: first feature \n\n BREAKING CHANGE: it breaks something # => this should create beta release
+* feat: first feature \n\n BREAKING CHANGE: it breaks something # => this should create next beta release trying again
 */
