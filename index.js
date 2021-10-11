@@ -11,4 +11,5 @@ release tries:
 * feat: first feature \n\n BREAKING CHANGE: it breaks something # => this should create next beta release trying again3
 * created newBeta branch
 * fix: fix commit in newBeta
+* nonsementic commit
 */
