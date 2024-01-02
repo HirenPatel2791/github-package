@@ -14,3 +14,10 @@ release tries:
 * nonsementic commit
 * changes on develop
 */
+
+/**
+ * github revert tries:
+ * init commit on new branch qrStatus
+ *
+ * more changes to qrStatus
+ */
