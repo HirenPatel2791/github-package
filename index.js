@@ -13,10 +13,3 @@ release tries:
 * fix: fix commit in newBeta
 * nonsementic commit
 */
-
-/**
- * github revert tries:
- * init commit on new branch qrStatus
- *
- * more changes to qrStatus
- */
