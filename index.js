@@ -12,8 +12,8 @@ release tries:
 * created newBeta branch
 * fix: fix commit in newBeta
 * nonsementic commit
+* changes on develop
 */
-
 /**
  * github revert tries:
  * init commit on new branch qrStatus
@@ -23,4 +23,6 @@ release tries:
  * aditya's changes
  *
  * aditya's changes 2
+ * create conflict
  */
+
