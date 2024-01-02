@@ -15,5 +15,14 @@ release tries:
 * changes on develop
 */
 /**
+ * github revert tries:
+ * init commit on new branch qrStatus
+ *
+ * more changes to qrStatus
+ *
+ * aditya's changes
+ *
+ * aditya's changes 2
  * create conflict
  */
+
